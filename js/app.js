@@ -64,3 +64,4 @@
 // selectPlayers(ramosObject);
 // selectPlayers(vitorObject);
 // selectPlayers(renatoObject);
+console.log('ok');
